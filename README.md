@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 💫 About Me<br><br>💻 Passionate about programming and always excited to learn new technologies  <br><br>🐍 Love turning ideas into real projects through code, especially using Python  <br><br>🚀 Continuously improving my skills in software development, problem solving, and networking  <br><br>✨ Dreaming of becoming a successful Software Engineer and building impactful software for the future
+<br><br>💻 Passionate about programming and always excited to learn new technologies  <br><br>🐍 Love turning ideas into real projects through code, especially using Python  <br><br>🚀 Continuously improving my skills in software development, problem solving, and networking  <br><br>✨ Dreaming of becoming a successful Software Engineer and building impactful software for the future
 
 
 ## 🌐 Socials:
