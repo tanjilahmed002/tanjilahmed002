@@ -1,4 +1,19 @@
+### Hi there 👋, Hi 👋, I'm Tanjil Ahmed 
+#### Passionate about Programming & Software Development
+
+
+
+
+
 <br><br>💻 Passionate about programming and always excited to learn new technologies  <br><br>🐍 Love turning ideas into real projects through code, especially using Python  <br><br>🚀 Continuously improving my skills in software development, problem solving, and networking  <br><br>✨ Dreaming of becoming a successful Software Engineer and building impactful software for the future
+
+- 🔭 I’m currently working on this page.improving my programming skills 
+- 🌱 I’m currently learning Python, Java, C Programming  
+- 👯 I’m looking to collaborate on Beginner-friendly software projects and open source projects 
+- 🤔 I’m looking for help with Advanced Python projects and software development ideas 
+- 💬 Ask me about Python, C Programming, Java & Coding 
+- 📫 How to reach me: tanjilahmedrimel002@gmail.com 
+
 
 
 ## 🌐 Socials:
