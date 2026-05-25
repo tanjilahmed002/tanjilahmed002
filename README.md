@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Tanjil Ahmed 
+### Hi 👋, I'm Tanjil Ahmed 
 #### Passionate about Programming & Software Development
 
 
