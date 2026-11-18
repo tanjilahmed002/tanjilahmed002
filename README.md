@@ -1,37 +1,82 @@
-### Hi 👋, I'm Tanjil Ahmed 
-#### Passionate about Programming & Software Development
+# Hi 👋, I'm Tanjil Ahmed
 
+### 🚀 Aspiring AI & Machine Learning Engineer | Python Programmer | Problem Solver
 
-Passionate about programming and always curious to learn new technologies 💻  
-I enjoy turning ideas into real projects through code, especially using Python 🐍  
-Focused on improving my skills in software development & problem solving 🚀  
-Dreaming of becoming a successful Software Engineer and building impactful software for the future ✨
+I'm passionate about programming, Artificial Intelligence, and Machine Learning. I enjoy solving programming problems, improving my logical thinking, and exploring new technologies.
 
-- 🔭 I’m currently working on this page.improving my programming skills 
-- 🌱 I’m currently learning Python, Java, C Programming  
-- 👯 I’m looking to collaborate on Beginner-friendly software projects and open source projects 
-- 🤔 I’m looking for help with Advanced Python projects and software development ideas 
-- 💬 Ask me about Python, C Programming, Java & Coding 
-- 📫 How to reach me: tanjilahmedrimel002@gmail.com 
+Currently, I'm focusing on improving my Python programming skills and building a strong foundation for my journey into AI and Machine Learning.
 
-
-
-
-
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/14nq2DQFg6o/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanjilahmedrimel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanjil-ahmed-337924381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanjilahmedrimel002@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tanjilahmed002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tanjilahmed002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanjilahmed002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My goal is to become an AI/ML Engineer and develop intelligent solutions that make a real-world impact.
 
 ---
-[![](https://komarev.com/ghpvc/?username=tanjilahmed002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🐍 Interested in **Python Programming**
+- 🧩 Love solving programming problems and improving logical thinking
+- 🌱 Currently improving my **Python and Programming Skills**
+- 💡 Exploring AI, Machine Learning, and Data Science
+- 🤝 Interested in beginner-friendly projects and open-source contributions
+- 🎯 Goal: To become a skilled **AI & Machine Learning Engineer**
+- 📫 Email: [**tanjilahmedrimel002@gmail.com**](mailto\:tanjilahmedrimel002@gmail.com)
+
+---
+
+### 💻 Current Skills & Technologies
+
+**Programming Languages**
+
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=python,c,java](https://skillicons.dev/icons?i=python,c,java)" /> \</p>
+
+**Database & Development Tools**
+
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=mysql,git,github,vscode](https://skillicons.dev/icons?i=mysql,git,github,vscode)" /> \</p>
+
+**Programming Interests**
+
+- Python Programming
+- Basic Problem Solving
+- Conditional Statements & Loops
+- Functions & Arrays
+- Basic Data Structures
+- Object-Oriented Programming (Learning)
+
+---
+
+### 🤖 AI & Machine Learning – Learning Roadmap
+
+\<p align="left">   \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)" /> \</p>
+
+*These are technologies I plan to explore and learn as I progress in AI and Machine Learning.*
+
+---
+
+### 🧠 Areas of Interest
+
+\<p align="left">
+&#x20; \<img src="[https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge\&logo=openai\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Problem%20Solving-008080?style=for-the-badge](https://img.shields.io/badge/Problem%20Solving-008080?style=for-the-badge)" />
+&#x20; \<img src="[https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge)" />
+\</p>
+
+---
+
+### 📊 GitHub Statistics
+
+\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=tanjilahmed002&theme=tokyonight&hide_border=true&show_icons=true](https://github-readme-stats.vercel.app/api?username=tanjilahmed002\&theme=tokyonight\&hide_border=true\&show_icons=true)" />   \<img width="49%" src="[https://streak-stats.demolab.com/?user=tanjilahmed002&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=tanjilahmed002\&theme=tokyonight\&hide_border=true)" /> \</p>
+
+\<p align="center">   \<img width="45%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilahmed002&theme=tokyonight&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilahmed002\&theme=tokyonight\&hide_border=true\&layout=compact)" /> \</p>
+
+---
+
+### 🌐 Connect With Me
+
+\<p align="left">   \<a href="[https://www.facebook.com/share/14nq2DQFg6o/?mibextid=wwXIfr](https://www.facebook.com/share/14nq2DQFg6o/?mibextid=wwXIfr)">     \<img src="[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)" />   \</a>   \<a href="[https://instagram.com/tanjilahmedrimel](https://instagram.com/tanjilahmedrimel)">     \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/in/tanjil-ahmed-337924381](https://www.linkedin.com/in/tanjil-ahmed-337924381)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:tanjilahmedrimel002\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
+
+---
+
+\<p align="center">   \<i>"Great things are built one line of code at a time."\</i> 💻 \</p>
+
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=tanjilahmed002&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=tanjilahmed002\&label=Profile%20Views\&color=blueviolet\&style=flat)" /> \</p>
