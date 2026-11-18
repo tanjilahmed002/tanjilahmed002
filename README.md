@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="Tanjil Ahmed">
+<!-- ===================== HERO ===================== -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="Tanjil Ahmed">
 <defs>
 <linearGradient id="g" x1="0" y1="0" x2="1" y2="0" spreadMethod="repeat">
 <stop offset="0" stop-color="#06b6d4"/><stop offset=".33" stop-color="#7c3aed"/><stop offset=".66" stop-color="#d946ef"/><stop offset="1" stop-color="#06b6d4"/>
@@ -21,6 +23,7 @@
 </g>
 <rect class="bar" x="440" y="148" width="320" height="5" rx="2.5" fill="url(#g)"/>
 </svg>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanjilahmed002&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
