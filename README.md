@@ -1,73 +1,44 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Tanjil%20Ahmed&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Problem%20Solver&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7c3aed&height=230&section=header&text=Tanjil%20Ahmed&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20%26%20Machine%20Learning%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+write+code+in+Python%2C+C+%26+Java+%F0%9F%92%BB;I+love+solving+problems+%F0%9F%A7%A9;My+dream%3A+a+career+in+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">🐍 Python &nbsp;·&nbsp; ⚙️ C &nbsp;·&nbsp; ☕ Java &nbsp;&nbsp;|&nbsp;&nbsp; 🧩 Problem Solver &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 Future AI &amp; ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanjilahmed002&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/tanjilahmed002?label=Followers&style=for-the-badge&logo=github&color=302b63" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/tanjilahmed002?label=Followers&style=for-the-badge&logo=github&color=00c6ff&labelColor=302b63" />
 </p>
 
 ---
 
-## 👨‍💻 Who Am I
+## 👋 About Me
+
+> Hi, I'm **Tanjil**. I write code in **Python, C and Java**, and I really enjoy solving programming problems.
+>
+> My dream is to build a career in **Artificial Intelligence & Machine Learning** and create intelligent solutions that make a real-world impact.
+
+<br />
 
 <table align="center">
   <tr>
-    <td width="58%" valign="top">
-      <h3>Hello, I'm Tanjil 👋</h3>
-      <p>
-        I'm an aspiring <b>AI &amp; Machine Learning Engineer</b> who loves programming and solving problems.
-        I write code in <b>Python, C and Java</b>, and every day I'm working to turn my passion for AI into a real career.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      </p>
-    </td>
-    <td width="42%" valign="top">
-      <b>⚡ Quick Facts</b>
+    <td align="center" width="33%">
+      <h1>💻</h1>
+      <b>I Code In</b>
       <br /><br />
-      🧑‍💻 <b>Role:</b> Aspiring AI/ML Engineer<br />
-      💻 <b>Languages:</b> Python, C, Java<br />
-      🧩 <b>Strength:</b> Problem Solving<br />
-      🎯 <b>Goal:</b> Career in AI &amp; ML<br />
-      🌱 <b>Status:</b> Learning every day
+      Python, C and Java
     </td>
-  </tr>
-</table>
-
----
-
-## 💡 A Little More About Me
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🐍 I code in</h3>
-      <p>Python, C and Java. I enjoy writing clean logic and turning ideas into working programs.</p>
+    <td align="center" width="33%">
+      <h1>🧩</h1>
+      <b>I Love</b>
+      <br /><br />
+      Solving problems and sharpening my logical thinking
     </td>
-    <td width="50%">
-      <h3>🧩 I love</h3>
-      <p>Solving programming problems. Every problem sharpens my thinking and makes me a better developer.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎯 My career goal</h3>
-      <p>To become an <b>AI &amp; Machine Learning Engineer</b> and build intelligent solutions that create real-world impact.</p>
-    </td>
-    <td width="50%">
-      <h3>🤝 I'm open to</h3>
-      <p>Beginner-friendly projects, open-source contributions and learning from other developers.</p>
+    <td align="center" width="33%">
+      <h1>🎯</h1>
+      <b>My Goal</b>
+      <br /><br />
+      A career as an AI &amp; Machine Learning Engineer
     </td>
   </tr>
 </table>
@@ -76,32 +47,58 @@
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
-  <b>Languages</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" />
-</p>
+<h4 align="center">Programming Languages</h4>
 
-<p align="center">
-  <b>Database & Developer Tools</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=python" width="56" height="56" /><br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=c" width="56" height="56" /><br /><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=java" width="56" height="56" /><br /><sub><b>Java</b></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logical%20Thinking-7c3aed?style=for-the-badge" />
-</p>
+<h4 align="center">Database & Developer Tools</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" /><br /><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" /><br /><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=github" width="56" height="56" /><br /><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" /><br /><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 Focus Areas
+## 🎯 Focus Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-008080?style=for-the-badge" />
+</p>
+
+<p align="center"><b>Currently working on</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Improving-Python%20Skills-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Practicing-Problem%20Solving-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Object--Oriented%20Programming-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-7c3aed?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -117,36 +114,13 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilahmed002&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilahmed002&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-
-## 🎯 Currently Focusing On
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Improving-Python%20Skills-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Practicing-Problem%20Solving-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20Machine%20Learning-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
----
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanjilahmed002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
-</p>
-
 ---
 
 <!-- ===================== CONTACT ===================== -->
 <h2 align="center">📬 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Have+a+question%3F+Want+to+collaborate%3F;Reach+me+on+any+of+these+platforms+%F0%9F%91%87" />
+  <i>Have a question or want to collaborate? Reach me on any of these platforms 👇</i>
 </p>
 
 <table align="center">
@@ -209,5 +183,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7c3aed&height=120&section=footer" />
 </p>
