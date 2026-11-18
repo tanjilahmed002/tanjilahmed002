@@ -1,30 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="Tanjil Ahmed">
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="0" spreadMethod="repeat">
-<stop offset="0" stop-color="#06b6d4"/><stop offset=".33" stop-color="#7c3aed"/><stop offset=".66" stop-color="#d946ef"/><stop offset="1" stop-color="#06b6d4"/>
-<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1 0" dur="4s" repeatCount="indefinite"/>
-</linearGradient>
-<filter id="b" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
-</defs>
-<style>
-.t{font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:112px;font-weight:800;text-anchor:middle}
-.fl{animation:fl 3.5s ease-in-out infinite}
-.gl{opacity:.35;animation:gl 3.5s ease-in-out infinite}
-.bar{transform-box:fill-box;transform-origin:center;animation:bar 3.5s ease-in-out infinite}
-@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
-@keyframes gl{0%,100%{opacity:.2}50%{opacity:.6}}
-@keyframes bar{0%,100%{transform:scaleX(.35)}50%{transform:scaleX(1)}}
-</style>
-<g class="fl">
-<text class="t gl" x="600" y="118" fill="url(#g)" filter="url(#b)">Tanjil Ahmed</text>
-<text class="t" x="600" y="118" fill="url(#g)">Tanjil Ahmed</text>
-</g>
-<rect class="bar" x="440" y="148" width="320" height="5" rx="2.5" fill="url(#g)"/>
-</svg>
-</p>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanjilahmed002&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/tanjilahmed002?label=Followers&style=for-the-badge&logo=github&color=302b63" />
