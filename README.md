@@ -1,18 +1,11 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Tanjil%20Ahmed&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Problem%20Solver&descSize=18&descAlignY=60" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+write+code+in+Python%2C+C+%26+Java+%F0%9F%92%BB;I+love+solving+problems+%F0%9F%A7%A9;My+dream%3A+a+career+in+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="banner.svg" width="100%" alt="Tanjil Ahmed" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanjilahmed002&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/tanjilahmed002?label=Followers&style=for-the-badge&logo=github&color=302b63" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" />
 </p>
 
 ---
@@ -101,7 +94,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge" />
 </p>
 
 ---
@@ -123,19 +115,11 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanjilahmed002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
-</p>
-
----
-
 <!-- ===================== CONTACT ===================== -->
 <h2 align="center">📬 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Have+a+question%3F+Want+to+collaborate%3F;Reach+me+on+any+of+these+platforms+%F0%9F%91%87" />
+  <i>Have a question? Want to collaborate? Reach me on any of these platforms 👇</i>
 </p>
 
 <table align="center">
@@ -195,8 +179,4 @@
 
 <p align="center">
   <i>"Great things are built one line of code at a time."</i> 💻
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 </p>
