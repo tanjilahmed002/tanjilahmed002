@@ -15,13 +15,6 @@
   <img src="https://img.shields.io/github/followers/tanjilahmed002?label=Followers&style=for-the-badge&logo=github&color=8A2BE2" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanjil-ahmed-337924381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/14nq2DQFg6o/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/tanjilahmedrimel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:tanjilahmedrimel002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -121,6 +114,80 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanjilahmed002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
+</p>
+
+---
+
+<!-- ================= REACH ME SECTION ================= -->
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Have+a+question%3F+Want+to+collaborate%3F;Reach+me+on+any+of+these+platforms+%F0%9F%91%87" />
+</p>
+
+<table align="center">
+  <tr>
+    <!-- LINKEDIN -->
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/tanjil-ahmed-337924381">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" />
+      </a>
+      <br /><br />
+      <b>LinkedIn</b>
+      <br />
+      <sub>Professional network</sub>
+      <br /><br />
+      <a href="https://www.linkedin.com/in/tanjil-ahmed-337924381">
+        <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <!-- FACEBOOK -->
+    <td align="center" width="200">
+      <a href="https://www.facebook.com/share/14nq2DQFg6o/?mibextid=wwXIfr">
+        <img src="https://skillicons.dev/icons?i=facebook" width="64" height="64" />
+      </a>
+      <br /><br />
+      <b>Facebook</b>
+      <br />
+      <sub>Say hello</sub>
+      <br /><br />
+      <a href="https://www.facebook.com/share/14nq2DQFg6o/?mibextid=wwXIfr">
+        <img src="https://img.shields.io/badge/Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+      </a>
+    </td>
+    <!-- INSTAGRAM -->
+    <td align="center" width="200">
+      <a href="https://instagram.com/tanjilahmedrimel">
+        <img src="https://skillicons.dev/icons?i=instagram" width="64" height="64" />
+      </a>
+      <br /><br />
+      <b>Instagram</b>
+      <br />
+      <sub>@tanjilahmedrimel</sub>
+      <br /><br />
+      <a href="https://instagram.com/tanjilahmedrimel">
+        <img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <!-- GMAIL -->
+    <td align="center" width="200">
+      <a href="mailto:tanjilahmedrimel002@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="64" height="64" />
+      </a>
+      <br /><br />
+      <b>Gmail</b>
+      <br />
+      <sub>tanjilahmedrimel002@gmail.com</sub>
+      <br /><br />
+      <a href="mailto:tanjilahmedrimel002@gmail.com">
+        <img src="https://img.shields.io/badge/Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>💬 I'm always happy to talk about programming, AI/ML, or beginner-friendly open-source projects!</i>
 </p>
 
 ---
