@@ -123,6 +123,17 @@
 
 ---
 
+
+## 🎯 Currently Focusing On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Improving-Python%20Skills-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Practicing-Problem%20Solving-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20Machine%20Learning-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
 ## 🏆 Trophies
 
 <p align="center">
