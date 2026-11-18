@@ -17,23 +17,33 @@
 
 ---
 
-## 👨‍💻 whoami
+## 👨‍💻 Who Am I
 
-```python
-class TanjilAhmed:
-    def __init__(self):
-        self.role      = "Aspiring AI & Machine Learning Engineer"
-        self.languages = ["Python", "C", "Java"]
-        self.strengths = ["Problem Solving", "Logical Thinking"]
-        self.goal      = "Build my career in AI & Machine Learning"
-        self.status    = "Learning, coding and improving every single day"
-
-    def say_hi(self):
-        return "Let's build something great together! 🚀"
-
-
-print(TanjilAhmed().say_hi())
-```
+<table align="center">
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Hello, I'm Tanjil 👋</h3>
+      <p>
+        I'm an aspiring <b>AI &amp; Machine Learning Engineer</b> who loves programming and solving problems.
+        I write code in <b>Python, C and Java</b>, and every day I'm working to turn my passion for AI into a real career.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <b>⚡ Quick Facts</b>
+      <br /><br />
+      🧑‍💻 <b>Role:</b> Aspiring AI/ML Engineer<br />
+      💻 <b>Languages:</b> Python, C, Java<br />
+      🧩 <b>Strength:</b> Problem Solving<br />
+      🎯 <b>Goal:</b> Career in AI &amp; ML<br />
+      🌱 <b>Status:</b> Learning every day
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -132,7 +142,7 @@ print(TanjilAhmed().say_hi())
   <tr>
     <td align="center" width="200">
       <a href="https://www.linkedin.com/in/tanjil-ahmed-337924381">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" />
+        <img src="https://img.icons8.com/color/96/linkedin.png" width="64" height="64" />
       </a>
       <br /><br />
       <b>LinkedIn</b><br />
@@ -144,7 +154,7 @@ print(TanjilAhmed().say_hi())
     </td>
     <td align="center" width="200">
       <a href="https://www.facebook.com/share/14nq2DQFg6o/?mibextid=wwXIfr">
-        <img src="https://skillicons.dev/icons?i=facebook" width="64" height="64" />
+        <img src="https://img.icons8.com/color/96/facebook-new.png" width="64" height="64" />
       </a>
       <br /><br />
       <b>Facebook</b><br />
@@ -156,7 +166,7 @@ print(TanjilAhmed().say_hi())
     </td>
     <td align="center" width="200">
       <a href="https://instagram.com/tanjilahmedrimel">
-        <img src="https://skillicons.dev/icons?i=instagram" width="64" height="64" />
+        <img src="https://img.icons8.com/color/96/instagram-new.png" width="64" height="64" />
       </a>
       <br /><br />
       <b>Instagram</b><br />
@@ -168,7 +178,7 @@ print(TanjilAhmed().say_hi())
     </td>
     <td align="center" width="200">
       <a href="mailto:tanjilahmedrimel002@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="64" height="64" />
+        <img src="https://img.icons8.com/color/96/gmail-new.png" width="64" height="64" />
       </a>
       <br /><br />
       <b>Gmail</b><br />
