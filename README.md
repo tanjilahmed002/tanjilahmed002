@@ -105,16 +105,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanjilahmed002&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=tanjilahmed002&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilahmed002&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilahmed002&theme=tokyo-night&hide_border=true&area=true" />
