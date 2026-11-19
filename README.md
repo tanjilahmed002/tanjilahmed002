@@ -1,3 +1,15 @@
+
+
+<h1 align="center">Hi 👋, I'm Tanjil Ahmed</h1>
+
+<h3 align="center">🤖 CSE Student | Aspiring AI & Machine Learning Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Artificial+Intelligence;Exploring+Machine+Learning;Learning+Python+and+Building+Projects;Future+AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+</p>
+
+---
+
 <!-- ===================== HERO ===================== -->
 <p align="center">
  
